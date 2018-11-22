@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# burger
-=======
 # sequelized-burger
->>>>>>> 34ccfe2b2821d97a79c1939ee6a4b68c59fc8be0
+This is a simple app to log burgers that people eat. It uses the Sequelize NPM package to interact with the database where burger data is stored.
