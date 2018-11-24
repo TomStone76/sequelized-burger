@@ -8,7 +8,7 @@ $(function () {
     // )
 
 
-    $(".devour-button").on("click", function (event) {  /// This should refer to a different button
+    $(".devour-button").on("click", function (event) {
         event.preventDefault();
 
         var id = $(this).data("id");
