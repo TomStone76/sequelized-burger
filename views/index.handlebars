@@ -22,9 +22,7 @@ Create a button in index.handlebars that will submit the user input into the dat
     {{#unless devoured}}
     {{> burgers/burger-block devoured=false}}
     <button data-id="{{this.id}}" id="devour-burger" class="devour-button">Devour it!</button>
-
     {{/unless}}
-
     {{/each}}
 </ul>
 
