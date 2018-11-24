@@ -1,6 +1,7 @@
 "use strict";
 
 var fs = require("fs");
+var burger = require("./burger.js");
 var path = require("path");
 var Sequelize = require("sequelize");
 var basename = path.basename(module.filename);
